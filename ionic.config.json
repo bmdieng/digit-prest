@@ -1,0 +1,8 @@
+{
+  "name": "DigitPrest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c97d405b"
+}
